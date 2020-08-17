@@ -16,3 +16,4 @@ CREATE TABLE assignment_submission
   duration INTEGER,
   submission_date DATE
 )
+
